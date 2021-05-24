@@ -68,6 +68,10 @@ def getRange(clientName, dateStart, dateEnd, client, sheet):
         # Api call to get requested date
         data = client.get_date(year, month, day, username=clientName)
 
+        if not data.totals:
+            start += step
+            continue
+
         # macros returned from API call
         calories = data.totals["calories"]
         proteins = data.totals["protein"]
