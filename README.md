@@ -4,9 +4,9 @@ This script request data from an unofficial myfitnesspal API and uploads it into
 
 ## Why
 
-Manually handling data is boring, specially when you know it can somewhat be automated, so that's what i've done.
+Manually handling data is boring, specially when you know it can somewhat be automated, so that's what I've done.
 
-Many Person personal trainers these days use spreadsheets for each of their clients, the client is supposed to manually upload each day calories and macronutrientes so the personal trainer can analyze the data.
+Many personal trainers these days use spreadsheets for each of their clients, the client is supposed to manually upload each day calories and macronutrients so the personal trainer can analyze the data.
 
 ## How
 
@@ -19,7 +19,7 @@ The user has to pass 2 or 3 parameters to the script:
 
 ## Increasing efficiency
 
-In order for this script to be more efficient and productive, the spreadsheet should have a sheet with some formulas that fetch data from another sheet, this way nothing else has to be done in order for the data to be analyzed.
+For this script to be more efficient and productive, the spreadsheet should have a sheet with some formulas that fetch data from another sheet, this way nothing else has to be done in order for the data to be analyzed.
 
 Example of weekly calories stats:
 
@@ -35,4 +35,4 @@ Example of the sheet where the script will export the data to:
 
 ## Current issues
 
-The API used does not support fibers import, this way we can only fetch proteins, carbs and fats.
+The API used does not support fibres import, this way we can only fetch proteins, carbs and fats.
