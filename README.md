@@ -42,3 +42,9 @@ Example of the sheet where the script will export the data to:
 ## Current issues
 
 The API used does not support fibres import, this way we can only fetch proteins, carbs and fats.
+
+## Disclamer
+
+This script is not to be sold or used for commercialy purposes outside authorization. 
+
+It was made for personal use only.
