@@ -16,6 +16,12 @@ The user has to pass 2 or 3 parameters to the script:
 
 2. The timeline for the requested data. It can be a single value in the form of yyyy/mm/dd or in a range in the format of yyyy/mm/dd yyyy/mm/dd (in this case the date must be in ascing order)
 
+Exaple:
+
+```
+python myfitnesspal.py nuno_c11 2021/01/01 2021/01/29
+```
+
 
 ## Increasing efficiency
 
