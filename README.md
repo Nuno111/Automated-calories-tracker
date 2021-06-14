@@ -23,15 +23,15 @@ In order for this script to be more efficient and productive, the spreadsheet sh
 
 Example of weekly calories stats:
 
-[weekly_tracking_example](./images/weekly_tracking.png)
+![weekly_tracking_example](./images/weekly_tracking.png)
 
 Example of a google sheet formula that gets data from Fitnesspal sheet:
 
-[google_sheets_formula](./images/formula_example.png)
+![google_sheets_formula](./images/formula_example.png)
 
 Example of the sheet where the script will export the data to:
 
-[Fitnesspal_sheet](./images/fitnesspall_sheet.png)
+![Fitnesspal_sheet](./images/fitnesspall_sheet.png)
 
 ## Current issues
 
